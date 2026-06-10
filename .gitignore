@@ -1,0 +1,12 @@
+# Ficheiros gerados pelo programa
+medicoes.csv
+medicoes_log.txt
+
+# Backups do AutoCAD
+*.bak
+*.dwl
+*.dwl2
+
+# Sistema
+Thumbs.db
+desktop.ini
